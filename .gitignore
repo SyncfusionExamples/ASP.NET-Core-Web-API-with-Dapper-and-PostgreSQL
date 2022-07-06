@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DotNetCRUD
+/DotNetCRUD/bin/Debug/net6.0
+/DotNetCRUD/obj
+/.idea/.idea.DotNetCRUD/.idea
